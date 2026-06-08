@@ -1,0 +1,8 @@
+{
+  "greeting": "Bonjour",
+  "farewell": "Au revoir",
+  "nav": {
+    "home": "Accueil",
+    "about": "À propos"
+  }
+}
