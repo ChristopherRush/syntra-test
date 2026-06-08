@@ -1,6 +1,9 @@
 {
   "greeting": "Hello",
   "farewell": "Goodbye",
-  "greeting": "Good morning",
-  "nav": { "home": "Home", "about": "About" }
+  "greeting_2": "Good morning",
+  "nav": {
+    "home": "Home",
+    "about": "About"
+  }
 }
